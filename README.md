@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaeyoo
 - 👀 I’m interested in Frontend developing.
-- 🌱 I’m currently learning JavaScript, React, Node.
+- 🌱 I’m currently learning JavaScript, TypeScript, React.js, Node.js, Next.js.
 
 
 <!---
