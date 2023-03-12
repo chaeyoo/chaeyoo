@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaeyoo
 - 👀 I’m a web frontend developer.
-- 🌱 I’m currently using JavaScript, TypeScript, React.js, Node.js, Next.js.
+- 🌱 I use JavaScript, TypeScript, React.js, Node.js, Next.js.
 - ✋ I'm working at digintal health care company. (2022.03 ~ present)
 - 🧬 I worked at genomics analysis company as a fullstack developer for 9 months.
 
