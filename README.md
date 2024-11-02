@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaeyoo
 - 👀 I’m a web frontend developer.
-- 🌱 I use JavaScript, TypeScript, React.js, Node.js, Next.js.
+- 🌱 I use JavaScript, TypeScript, Next.js, React.js.
 
 <!---
 chaeyoo/chaeyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
